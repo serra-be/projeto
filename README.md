@@ -1,2 +1,2 @@
-# projeto
-projeto
+# Projeto
+Index mostra Bart dançando.
